@@ -13,6 +13,6 @@ Repository นี้ประกอบไปด้วยส่วนต่าง
 - เอกสารกําหนดวิธีการเชื่อมต่อและรับส่งข้อมูลผ่าน Application Programming Interface (API)
 - เอกสารคู่มือผู้ใช้งาน (User Manual)
 - เอกสาร Use Case Specification ประกอบ Use Case Specification, Flow of Events, User Interface, Output Report
-- เอกสาร Product Operation Guide
-- เอกสาร Maintenance
+- เอกสาร Product Operation Guide (System Document, คู่มือการ Deploy, การสำรองและกู้คืนข้อมูล)
+- เอกสาร Maintenance (System Description, Operating Procedure, Database Design and Schema, Data Dictionary)
 - เอกสาร Import Expense Budget
